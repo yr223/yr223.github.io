@@ -1,29 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yudan Ren on Scientific Researcher</title>
-    <link>https://yudanren.com/</link>
-    <description>Recent content in Yudan Ren on Scientific Researcher</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yudanren.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://yudanren.com/post/2019/05/03/first-post/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yudanren.com/post/2019/05/03/first-post/</guid>
-      <description>This is my first post
-A heading Hello everyone</description>
-    </item>
-    
-    <item>
-      <title>About Yudan Ren</title>
-      <link>https://yudanren.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yudanren.com/about/</guid>
-      <description>E-mail: contact@yudanren.com
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yudan Ren on Scientific Researcher</title><link>https://yudanren.com/</link><description>Recent content in Yudan Ren on Scientific Researcher</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yudanren.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Cancer Research UK Fundraising</title><link>https://yudanren.com/post/2021/01/31/cancer-research-uk-fundraising/</link><pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><guid>https://yudanren.com/post/2021/01/31/cancer-research-uk-fundraising/</guid><description>This is my first post
+A heading Hello everyone</description></item><item><title>First Post</title><link>https://yudanren.com/post/2019/05/03/first-post/</link><pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate><guid>https://yudanren.com/post/2019/05/03/first-post/</guid><description>This is my first post
+A heading Hello everyone</description></item><item><title>About Yudan Ren</title><link>https://yudanren.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yudanren.com/about/</guid><description>E-mail: contact@yudanren.com
 EDUCATION AND RESEARCH EXPERIENCE 2011-2014 Career Development Fellow
 Laboratory of Molecular Biology, Medical Research Council, Cambridge, UK.
 Antibody Intracellular function.
@@ -34,42 +11,11 @@ Glycoprotein M and ESCRT in Herpes simplex virus type 1 assembly.
 School of Biological Sciences, Nanyang Technological University, Singapore.
 Stem cel - adult human cel reprogramming (iPS).
 2007-2008 Project Officer
-School of Chemical &amp;amp; Biomedical Engineering, Nanyang Technological University,Singapore.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://yudanren.com/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yudanren.com/publications/</guid>
-      <description>Ren, Y., Crump, C. M., Mackley, M. M., Li Puma, G. and Reis, N. M. (2016).Photo inactivation of virus particles in microfluidic capillary systems.Biotechnol. Bioeng., 113: 1481-1492. doi:10.1002/bit.25912 Ren, Y., Bell, S., Zenner, H. L., Lau, K., Crump, C. M. (2012).Glycoprotein M is important for the efficient incorporation of glycoprotein H-L into herpes simplex virus type 1 particles.J. Gen. Virol., 93: 319-329.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://yudanren.com/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yudanren.com/research/</guid>
-      <description>About my research interests&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>遇见</title>
-      <link>https://yudanren.com/post/1/01/01/%E9%81%87%E8%A7%81/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yudanren.com/post/1/01/01/%E9%81%87%E8%A7%81/</guid>
-      <description>于山 2019年3月 于英国剑桥大学罗宾申学院
+School of Chemical &amp;amp; Biomedical Engineering, Nanyang Technological University,Singapore.</description></item><item><title>Publications</title><link>https://yudanren.com/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yudanren.com/publications/</guid><description>Ren, Y., Crump, C. M., Mackley, M. M., Li Puma, G. and Reis, N. M. (2016). Photo inactivation of virus particles in microfluidic capillary systems. Biotechnol. Bioeng., 113: 1481-1492. doi:10.1002/bit.25912 Ren, Y., Bell, S., Zenner, H. L., Lau, K., Crump, C. M. (2012). Glycoprotein M is important for the efficient incorporation of glycoprotein H-L into herpes simplex virus type 1 particles. J. Gen. Virol., 93: 319-329.</description></item><item><title>Research</title><link>https://yudanren.com/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yudanren.com/research/</guid><description>About my research interests&amp;hellip;</description></item><item><title>遇见</title><link>https://yudanren.com/post/1/01/01/%E9%81%87%E8%A7%81/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yudanren.com/post/1/01/01/%E9%81%87%E8%A7%81/</guid><description>于山 2019年3月 于英国剑桥大学罗宾申学院
 一早起床，本想再次披星戴月地离开。勉强蹑手蹑脚地洗漱完毕，弟弟半睡半醒地开始叫“妈妈”，随之哥哥也醒了。我感到实在不能就此和孩子们说“再见”，耐着心地满足了弟弟母乳的要求，然后开开心心地给孩子们准备早餐，陪伴着他们享用的同时匆匆忙忙地吃完了自己的早餐，见缝插针地安排了今天的晚饭，没来得及翻开弟弟拿到妈妈跟前的一本故事书……墙上的钟嘀嘀嗒嗒地走过，眼看着自己的时间变得越来越短。在早餐的末尾，交班给爸爸，一个“再见”，两个香吻，我紧赶慢赶地出发了。
 沿着安静的小径穿过罗宾申的花园，一个转弯，我惊喜地看到了一只七彩山鸡！它站在大片的草坪中央，拖着长长的尾羽，圆滚滚的身体雄赳赳的样子。它也扭头看着我快步走过，泰然自若。顿时，我想起了刚刚来到剑桥大学攻读博士不久，在罗宾申学生宿舍后面的那片草坪上，第一次看到这样的山鸡。我隔着玻璃窗远远地望着它，非常激动，激动地想把这个消息告诉远在国内的哥哥，告诉他：我在剑桥看到了和爸爸当年养过的、一摸一样的山鸡了！
 我看到它安静地走开了，离开了我的视线，马上冲出屋子去后院的草坪，似乎是想再看一眼，但已找不到它的踪影……我有点失落地回到房间，心情还是激动的。多么美丽的、不曾期待的遇见啊！感恩遇见，似乎完全是偶然的，也似乎有冥冥中的安排。
 这也让我想起了开始攻读博士的那个时候，我下定了决心想在三年内攻下学位。第一天去实验室，导师得知我的目标后说，三年很有难度，我们系里面曾经有一个学生在三年内提交了毕业论文，人家还是英语母语的。我听了，没有接话，凭着自己的实际行动跃跃欲试。开学不久后，我自告奋勇地在罗宾申学院做学术讲座，操着非常不熟练的英语，给大家介绍自己熟悉的生物医学研究领域的历史、近况以及展望。人生第一次英语学术讲座，心情非常紧张，在讲座结束以后我才完全打消“后悔自告奋勇”了的心情，听众们让我感到了被大家认同和赞赏的快乐，让我意识到语言的拙劣并不是阻碍交流的最重要因素。那是一场我将此生铭记的遇见。
 还记得有一次，检测病毒在宿主细胞里生长曲线的实验，需要在连续20个小时中每隔2-4个小时取样。我计划赶在四点钟的时候开始计时，凌晨三点半起床，骑车直奔实验室的我，顺着罗宾申学院外周的马路，一个急转弯，差点没撞上一头小麂！虽然我们立即分道扬镳，我骑我的单车继续前行，它过它的马路钻近了对面的灌木丛，我俩都吓了一大跳！于小麂，在它的生活习性里，不会预料到在那样的凌晨，会有人悄悄地、快速地骑着单车出现在马路上。于我，剑桥居然有小麂！“对不起小麂，把你吓了一大跳；谢谢你小麂，你是我看到的别样风景。”
 此后，我开始慢慢享受给各路听众们介绍、分享自己的研究工作；我再也没有在剑桥看到过小麂；而每当看到山鸡，我激动依然。不论是隔着一片草坪，还是一段马路，还是一条河，一堵围墙……似乎在我和它之间的空气中充斥了一份漂洋过海的心情，浓浓的，淡淡的，看不见摸不着地感受在心里。“小山，你想念你的爸爸了吗？我来轻轻地看看你，我会轻轻地离开。”
-感恩遇见。</description>
-    </item>
-    
-  </channel>
-</rss>
+感恩遇见。</description></item></channel></rss>
