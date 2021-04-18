@@ -3,6 +3,7 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
+  font-family: Verdana, sans-serif;
 }
 
 .centered {
@@ -62,7 +63,6 @@ body {
   border-radius: 5px;
 }
 .menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
   border-style: solid;
@@ -92,6 +92,10 @@ table {
   margin: auto;
 /*  border-top: 1px solid #666;
   border-bottom: 1px solid #666;*/
+}
+
+.title {
+  line-height:1em;
 }
 /*table thead th { border-bottom: 1px solid #ddd; }*/
 th, td { padding: 5px; }
