@@ -26,6 +26,10 @@ body {
   justify-content: center;
 }
 
+ol {
+  list-style-type: trad-chinese-formal;
+}
+
 .menu li {
   display: contents;
   list-style: none;
@@ -88,6 +92,7 @@ blockquote {
   padding: 3px 1em 3px;
 }
 
+
 table {
   margin: auto;
 /*  border-top: 1px solid #666;
@@ -95,7 +100,7 @@ table {
 }
 
 .title {
-  line-height:1em;
+  display:inline;
 }
 /*table thead th { border-bottom: 1px solid #ddd; }*/
 th, td { padding: 5px; }
