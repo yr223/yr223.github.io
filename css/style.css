@@ -27,7 +27,7 @@ body {
 }
 
 ol {
-  list-style-type: trad-chinese-formal;
+  list-style-type: cjk-ideographic;
 }
 
 .menu li {
